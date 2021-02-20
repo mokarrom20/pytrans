@@ -5,8 +5,8 @@ Used GoogleTrans API
 #Description : Please install these following modules and while running please use microphone
 
 **Modules**
-  googletrans for translating
-  gTTS for text to speech
+googletrans for translating
+gTTS for text to speech
   pyaudio for audio management
   playsound for playing audio
   speech recognition for speech input
