@@ -1,4 +1,4 @@
-# pytrans
+# v2v-pytrans
 Simple voice to voice translator using Python
 Used GoogleTrans API
 
