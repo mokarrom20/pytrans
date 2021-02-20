@@ -1,7 +1,7 @@
 ########################################MADE BY Mokarrom Hossain [i think]
 
-#PEWPEW cpp 1
-#Project name: Pytrans
+#PEWPEW
+#Project name: v2v-Pytrans
 #Description : Please install these following modules and while running please use microphone
 
 ####modules
